@@ -2,12 +2,18 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-  
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
+
+
+
+    
+
+
+    
     
 </template>
 
@@ -19,5 +25,12 @@ export default {
   }),
 }
 </script>
-
-<style lang="sass"></style>
+<style lang="sass">
+.cont_intro, .cont_intro *
+  position: relative
+.cont_intro:before
+  content: ''
+  position: absolute
+  width: 125%
+  left: -15%
+</style>
