@@ -78,7 +78,7 @@
               img(src="@/assets/curso/tema2/11.svg")
           .col.text-white(style="place-self:center;")
             p.fw-bold Preparado (#[em staged])
-            p.mb-0 Indica un archivo modificado que ha sido marcado en su versión actual para una próxima confirmación.
+            p.mb-0 Indica archivo modificado que ha sido marcado en su versión actual para una próxima confirmación.
       .p-4.p-lg-3(style="background-color:#5F2789;border-radius:18px;" data-aos="zoom-in")
         .row
           .col-auto.d-none.d-md-block
@@ -146,7 +146,7 @@
           figure
             img(src="@/assets/curso/tema1/9.svg")
         .col.pe-4(style="place-self:end;")
-          h3.text-white.mb-0.pb-2 Instalación de Git en sistemas operativos 
+          h3.text-white.mb-0.pb-2.pt-4.pt-md-0 Instalación de Git en sistemas operativos 
     
     p(data-aos="fade-right") La forma más sencilla de instalar Git en sistemas operativos Windows y Linux es por medio del sitio oficial disponible.
 

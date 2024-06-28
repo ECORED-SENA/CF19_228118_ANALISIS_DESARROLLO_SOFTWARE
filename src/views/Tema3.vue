@@ -19,15 +19,15 @@
             .row.col-xl-11.m-auto(titulo="Clonación del repositorio")
               p.mb-0 Este comando permite recibir una copia de casi todos los archivos existentes en el repositorio de origen, incluyendo cada versión de cada uno de los archivos. Así, si el servidor original llegara a dañarse, se podrá realizar una restauración a partir de todos los clones generados.
             .row.col-xl-11.m-auto(titulo="Estados de los archivos")
-              p.mb-0 Una vez se dispone de un espacio de trabajo inicializado, todos los archivos van a tener dos posibles estados: #[strong Rastreados (tracked files)]: Son todos aquellos archivos que estaban en la última versión del proyecto, independientemente de si estos archivos están modificados, sin modificar o preparados. Cuando se clona un proyecto a partir de un repositorio existente, todos estos archivos pertenecen al estado rastreado y sin modificar. Una vez un archivo es editado, pasa al estado modificado; luego se deben pasar al estado de preparación para finalmente confirmarlos. #[strong Sin rastrear:] Corresponden a todos aquellos archivos que no formaban parte de la última versión del proyecto y no están en el área de preparación (#[em staging area]).
+              p.mb-0 Una vez se dispone de un espacio de trabajo inicializado, todos los archivos van a tener dos posibles estados: #[strong Rastreados (tracked files)]: Son todos aquellos archivos que estaban en la última versión del proyecto, independientemente de si estos archivos están modificados, sin modificar o preparados. Cuando se clona un proyecto a partir de un repositorio existente, todos estos archivos pertenecen al estado rastreado y sin modificar. Una vez un archivo es editado, pasa al estado modificado; luego se debe pasar al estado de preparación para finalmente confirmarlos. #[strong Sin rastrear:] Corresponden a todos aquellos archivos que no formaban parte de la última versión del proyecto y no están en el área de preparación (#[em staging area]).
             .row.col-xl-11.m-auto(titulo="Visualizar el estado")
               p.mb-0 Para visualizar el estado actual de tus archivos indicando si están o no rastreados por Git, se puede ejecutar el siguiente comando: #[strong $ git status].
             .row.col-xl-11.m-auto(titulo="Rastrear archivos nuevos")
               p.mb-0 Para todos los archivos nuevos que se desean ser rastreados por Git, se debe indicar con el siguiente comando: #[strong $ git add Nombre_archivo].
         .col-lg-5(data-aos="fade-left")
-          figure.m-auto.col-9.col-md-8.col-lg-12
+          figure.m-auto.col-9.col-md-8.col-lg-12.d-none.d-lg-block
             img(src="@/assets/curso/tema3/2.png")
-      .row.mt-4
+      .row.mt-lg-4
         .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
           figure.m-auto.col-9.col-md-8.col-lg-12
             img(src="@/assets/curso/tema3/3.png")

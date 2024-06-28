@@ -32,7 +32,7 @@
             img(src="@/assets/curso/intro4.svg")
         .col-lg-7(data-aos="fade-left")
           .p-4.bg-white.h-100.d-flex.align-content-center.flex-wrap(style="border-radius:10px;")
-            p.mb-0 Plataformas como #[em GitHub], #[em GitLab] y #[em BitBucket], basadas en Git, facilitan la integración continúa proporcionando repositorios accesibles por internet, donde se pueden gestionar proyectos de software de manera colaborativa y segura, optimizando así el desarrollo y mantenimiento de los proyectos.
+            p.mb-0 Plataformas como GitHub, GitLab y BitBucket, basadas en Git, facilitan la integración continúa proporcionando repositorios accesibles por internet, donde se pueden gestionar proyectos de #[em software] de manera colaborativa y segura, optimizando así el desarrollo y mantenimiento de los proyectos.
 
 
 

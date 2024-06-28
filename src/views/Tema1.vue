@@ -57,7 +57,7 @@
           figure
             img(src="@/assets/curso/tema1/9.svg")
         .col.pe-4(style="place-self:end;")
-          h3.text-white.mb-0.pb-2 Sistemas de control de versiones locales
+          h3.text-white.mb-0.pb-2.pt-4.pt-md-0 Sistemas de control de versiones locales
     
     p(data-aos="fade-right") Una forma de llevar control de versiones locales es crear copias manuales en un directorio exclusivo o de fácil reconocimiento, donde se registre los cambios realizados sobre un documento particular, generalmente mediante una numeración o incluso llevando registro de la fecha de realización de la versión, como se aprecia en la siguiente figura.
 

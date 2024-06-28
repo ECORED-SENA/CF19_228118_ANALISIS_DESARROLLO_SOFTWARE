@@ -92,7 +92,7 @@
           figure
             img(src="@/assets/curso/tema1/9.svg")
         .col.pe-4(style="place-self:end;")
-          h3.text-white.mb-0.pb-2 Aceptación de términos de servicios
+          h3.text-white.mb-0.pb-2.pt-4.pt-md-0 Aceptación de términos de servicios
     
     .row
       .col-auto.d-none.d-md-block(data-aos="fade-right" style="place-self:center;")

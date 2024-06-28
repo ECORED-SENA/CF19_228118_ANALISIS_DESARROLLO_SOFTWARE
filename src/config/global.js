@@ -180,7 +180,7 @@ export default {
       referencia:
         'Atlassian. (s.f.). <em>Qué es el control de versiones | Atlassian Git Tutorial</em>.',
       link:
-        'https://www.atlassian.com/es/Git/tutorials/what-is-version-control ',
+        'https://www.atlassian.com/es/git/tutorials/what-is-version-control',
     },
     {
       referencia:
@@ -201,7 +201,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -269,6 +269,12 @@ export default {
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
