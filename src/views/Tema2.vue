@@ -86,7 +86,7 @@
               img(src="@/assets/curso/tema2/12.svg")
           .col.text-white(style="place-self:center;")
             p.fw-bold Modificado  (#[em modified])
-            p.mb-0 Indica un que el archivo ha sufrido alguna modificación, pero esta aún no se ha preparado ni confirmado en la base de datos.
+            p.mb-0 Indica que el archivo ha sufrido alguna modificación, pero esta aún no se ha preparado ni confirmado en la base de datos.
     
     .row.mt-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
