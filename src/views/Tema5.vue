@@ -23,7 +23,7 @@
                 img(src="@/assets/curso/tema5/3.png")
             .col-md.col-12.mb-4.mb-sm-0(style="place-self:center;")
               h5(style="color:#00FFDF;") GitHub
-              p.text-small.text-white Conoce GitHub un portal creado para alojar códigos de las aplicaciones. 
+              p.text-small.text-white Conoce GitHub, un portal creado para alojar códigos de las aplicaciones. 
             .col-md-auto.text-center.col-12.mb-4.mb-sm-0(style="place-self:center;")
               a.boton.color-acento-botones.me-3(href="https://github.com" target="_blank")
                 span Enlace web
@@ -49,7 +49,7 @@
                 img(src="@/assets/curso/tema5/5.png")
             .col-md.col-12.mb-4.mb-sm-0(style="place-self:center;")
               h5(style="color:#00FFDF;") BitBucket
-              p.text-small.text-white Conoce a Bitbucket un servicio de alojamiento basado en web para los proyectos que utilizan sistema de control de versiones Mercurial y Git.
+              p.text-small.text-white Conoce a Bitbucket, un servicio de alojamiento basado en web para los proyectos que utilizan sistema de control de versiones Mercurial y Git.
             .col-md-auto.text-center.col-12.mb-4.mb-sm-0(style="place-self:center;")
               a.boton.color-acento-botones.me-3(href="https://bitbucket.org/" target="_blank")
                 span Enlace web
@@ -220,7 +220,7 @@
         figure
           img(src="@/assets/curso/tema5/23.svg")
       .col.pe-lg-4(data-aos="fade-left" style="place-self:center;")
-        p.mb-0 A continuación, lo único que queda por hacer es conectar el equipo local con el repositorio remoto por medio de Git usando los comandos mencionados anteriormente. En este caso, se usará la ayuda ofrecida por Gitlab para crear un nuevo repositorio local realizando la clonación respectiva desde el repositorio remoto.
+        p.mb-0 A continuación, lo único que queda por hacer es conectar el equipo local con el repositorio remoto por medio de Git usando los comandos mencionados anteriormente. En este caso, se usará la ayuda ofrecida por Gitlab para crear un nuevo repositorio local, realizando la clonación respectiva desde el repositorio remoto.
     
     .col-xl-10.m-auto.mt-5
       .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")

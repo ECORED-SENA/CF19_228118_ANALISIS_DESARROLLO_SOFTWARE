@@ -112,7 +112,8 @@ export default {
   complementario: [
     {
       tema: 'Comandos básicos de Git',
-      referencia: 'Fazt. (2014). Git and GitHub for Poets [Video]. YouTube.',
+      referencia:
+        'Fazt. (2014). Git y Github – Curso práctico de Git y Github desde cero. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/HiXLkL42tMU',
     },
