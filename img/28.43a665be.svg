@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="274" viewBox="0 0 820 274">
+  <g id="Grupo_1108595" data-name="Grupo 1108595" transform="translate(-390 -9050)">
+    <g id="Grupo_1108321" data-name="Grupo 1108321" transform="translate(390 9050)">
+      <path id="Rectángulo_389225" data-name="Rectángulo 389225" d="M9,0H811a9,9,0,0,1,9,9V55a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V9A9,9,0,0,1,9,0Z" transform="translate(0)" fill="#3a1d71"/>
+      <path id="Rectángulo_389226" data-name="Rectángulo 389226" d="M0,0H820a0,0,0,0,1,0,0V210a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V0A0,0,0,0,1,0,0Z" transform="translate(0 55)" fill="#110628"/>
+      <circle id="Elipse_11380" data-name="Elipse 11380" cx="8" cy="8" r="8" transform="translate(32 19)" fill="#fb130d"/>
+      <circle id="Elipse_11381" data-name="Elipse 11381" cx="8" cy="8" r="8" transform="translate(67 19)" fill="#fecd02"/>
+      <circle id="Elipse_11382" data-name="Elipse 11382" cx="8" cy="8" r="8" transform="translate(102 19)" fill="#43dfaa"/>
+    </g>
+    <text id="root_ubuntu-VirtualBox:_home_ubuntuser_git_clone_https:_gitlab.com_prueba237_repositorioremoto.git_Clonando_en_repositorioremoto_..._Username_for_https:_gitlab.com_:_prueba237_Password_for_https:_prueba237_gitlab.com_:_warning:_Pareces_haber_clo" data-name="root@ubuntu-VirtualBox:/home/ubuntuser# git clone https://gitlab.com/prueba237/repositorioremoto.git 
+Clonando en &apos;repositorioremoto&apos;... 
+Username for &apos;https://gitlab.com&apos;: prueba237 
+Password for &apos;https://prueba237@gitlab.com&apos;: 
+warning: Pareces haber clo" transform="translate(422 9125)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">root@ubuntu-VirtualBox:/home/ubuntuser# git clone https://gitlab.com/prueba237/</tspan><tspan x="0" y="38">repositorioremoto.git </tspan><tspan x="0" y="61">Clonando en </tspan><tspan y="61" fill="#00ffdf">&apos;repositorioremoto&apos;</tspan><tspan y="61">... </tspan><tspan x="0" y="84">Username </tspan><tspan y="84" fill="#a854f3">for</tspan><tspan y="84" xml:space="preserve" fill="#00ffdf"> &apos;https://gitlab.com&apos;</tspan><tspan y="84">: prueba237 </tspan><tspan x="0" y="107">Password </tspan><tspan y="107" fill="#a854f3">for</tspan><tspan y="107"> </tspan><tspan y="107" fill="#00ffdf">&apos;https://prueba237@gitlab.com&apos;</tspan><tspan y="107">: </tspan><tspan x="0" y="130">warning: Pareces haber clonado un repositorio sin contenido. </tspan><tspan x="0" y="153">root@ubuntu-VirtualBox:/home/ubuntuser# </tspan></text>
+  </g>
+</svg>
